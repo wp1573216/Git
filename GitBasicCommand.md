@@ -2,7 +2,7 @@
 
 ## Git 工作原理
 
-- Git工作原理图
+- Git工作原理图  
 ![](images/Git2.png =300x300)
 
 
@@ -18,5 +18,5 @@
 
 
 <!--文档注释  -->
-[GitBash]:images/Git1.png =300x300
+[GitBash]:images/Git1.png
 
