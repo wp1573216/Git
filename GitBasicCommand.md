@@ -3,7 +3,7 @@
 ## Git 工作原理
 
 - Git工作原理图  
-![](images/Git2.png =300*300)
+![](images/Git2.png){:height="300" width="300"}
 
 
 ## Git Bash 一些简单操作
